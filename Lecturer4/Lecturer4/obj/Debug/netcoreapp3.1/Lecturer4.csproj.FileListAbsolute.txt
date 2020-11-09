@@ -1,0 +1,13 @@
+C:\Users\Yunus Emre Bitkay\Desktop\Lecturer4\Lecturer4\obj\Debug\netcoreapp3.1\Lecturer4.csprojAssemblyReference.cache
+C:\Users\Yunus Emre Bitkay\Desktop\Lecturer4\Lecturer4\obj\Debug\netcoreapp3.1\Lecturer4.AssemblyInfoInputs.cache
+C:\Users\Yunus Emre Bitkay\Desktop\Lecturer4\Lecturer4\obj\Debug\netcoreapp3.1\Lecturer4.AssemblyInfo.cs
+C:\Users\Yunus Emre Bitkay\Desktop\Lecturer4\Lecturer4\obj\Debug\netcoreapp3.1\Lecturer4.csproj.CoreCompileInputs.cache
+C:\Users\Yunus Emre Bitkay\Desktop\Lecturer4\Lecturer4\bin\Debug\netcoreapp3.1\Lecturer4.exe
+C:\Users\Yunus Emre Bitkay\Desktop\Lecturer4\Lecturer4\bin\Debug\netcoreapp3.1\Lecturer4.deps.json
+C:\Users\Yunus Emre Bitkay\Desktop\Lecturer4\Lecturer4\bin\Debug\netcoreapp3.1\Lecturer4.runtimeconfig.json
+C:\Users\Yunus Emre Bitkay\Desktop\Lecturer4\Lecturer4\bin\Debug\netcoreapp3.1\Lecturer4.runtimeconfig.dev.json
+C:\Users\Yunus Emre Bitkay\Desktop\Lecturer4\Lecturer4\bin\Debug\netcoreapp3.1\Lecturer4.dll
+C:\Users\Yunus Emre Bitkay\Desktop\Lecturer4\Lecturer4\bin\Debug\netcoreapp3.1\Lecturer4.pdb
+C:\Users\Yunus Emre Bitkay\Desktop\Lecturer4\Lecturer4\obj\Debug\netcoreapp3.1\Lecturer4.dll
+C:\Users\Yunus Emre Bitkay\Desktop\Lecturer4\Lecturer4\obj\Debug\netcoreapp3.1\Lecturer4.pdb
+C:\Users\Yunus Emre Bitkay\Desktop\Lecturer4\Lecturer4\obj\Debug\netcoreapp3.1\Lecturer4.genruntimeconfig.cache

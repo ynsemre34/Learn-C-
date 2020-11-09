@@ -1,0 +1,13 @@
+C:\Users\Yunus Emre Bitkay\Desktop\Lecturer3\Lecturer3\obj\Debug\netcoreapp3.1\Lecturer3.AssemblyInfoInputs.cache
+C:\Users\Yunus Emre Bitkay\Desktop\Lecturer3\Lecturer3\obj\Debug\netcoreapp3.1\Lecturer3.AssemblyInfo.cs
+C:\Users\Yunus Emre Bitkay\Desktop\Lecturer3\Lecturer3\obj\Debug\netcoreapp3.1\Lecturer3.csproj.CoreCompileInputs.cache
+C:\Users\Yunus Emre Bitkay\Desktop\Lecturer3\Lecturer3\bin\Debug\netcoreapp3.1\Lecturer3.exe
+C:\Users\Yunus Emre Bitkay\Desktop\Lecturer3\Lecturer3\bin\Debug\netcoreapp3.1\Lecturer3.deps.json
+C:\Users\Yunus Emre Bitkay\Desktop\Lecturer3\Lecturer3\bin\Debug\netcoreapp3.1\Lecturer3.runtimeconfig.json
+C:\Users\Yunus Emre Bitkay\Desktop\Lecturer3\Lecturer3\bin\Debug\netcoreapp3.1\Lecturer3.runtimeconfig.dev.json
+C:\Users\Yunus Emre Bitkay\Desktop\Lecturer3\Lecturer3\bin\Debug\netcoreapp3.1\Lecturer3.dll
+C:\Users\Yunus Emre Bitkay\Desktop\Lecturer3\Lecturer3\bin\Debug\netcoreapp3.1\Lecturer3.pdb
+C:\Users\Yunus Emre Bitkay\Desktop\Lecturer3\Lecturer3\obj\Debug\netcoreapp3.1\Lecturer3.dll
+C:\Users\Yunus Emre Bitkay\Desktop\Lecturer3\Lecturer3\obj\Debug\netcoreapp3.1\Lecturer3.pdb
+C:\Users\Yunus Emre Bitkay\Desktop\Lecturer3\Lecturer3\obj\Debug\netcoreapp3.1\Lecturer3.genruntimeconfig.cache
+C:\Users\Yunus Emre Bitkay\Desktop\Lecturer3\Lecturer3\obj\Debug\netcoreapp3.1\Lecturer3.csprojAssemblyReference.cache
